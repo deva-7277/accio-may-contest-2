@@ -118,7 +118,7 @@ form input:last-child{
     font-weight: 700;
 }
 input[type="text"]:focus, input[type="email"]:focus{
-    outline: blue; 
+    outline: 1px solid blue; 
     background-color: lightblue;
   }
 
